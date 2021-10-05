@@ -1,0 +1,13 @@
+1) User Interface: view like in telephone
+[{1, 2, 3}]
+[{4, 5, 6}]
+[{7, 8, 9}]
+2) Save win combination
+3) Create fieldMatrix 3x3 as filed
+4) Whose first move - X or O
+5) If first move is X - five different debuts, it's not always 5 position
+6) Whos is the next move after first move?
+7) Move of the alternate command is put a X or O at random from 1 to 9 if the cell is not ocuppied 
+8) After each move save X or 0 to fieldMatrix
+9) Clear screen after each move
+10) Print fieldExample and fieldMatrix
